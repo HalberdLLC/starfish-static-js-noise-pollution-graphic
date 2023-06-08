@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="215" height="658" viewBox="0 0 215 658">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_33" data-name="Rectangle 33" width="53" height="54" fill="#fff"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <rect id="Rectangle_33-2" data-name="Rectangle 33" width="53" height="54" fill="none"/>
+        </clipPath>
+    </defs>
+    <g id="Group_189" data-name="Group 189" transform="translate(-1155 -50)">
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1155 493)" fill="none" stroke="#122c49" stroke-width="3">
+            <circle cx="107.5" cy="107.5" r="107.5" stroke="none"/>
+            <circle cx="107.5" cy="107.5" r="106" fill="none"/>
+        </g>
+        <circle id="Ellipse_49" data-name="Ellipse 49" cx="85" cy="85" r="85" transform="translate(1178 282)" fill="#efefef"/>
+        <line id="Line_150" data-name="Line 150" x2="12" transform="translate(1263 238) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_153" data-name="Line 153" y2="9" transform="translate(1263 478)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_174" data-name="Line 174" y2="9" transform="translate(1263 459)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_151" data-name="Line 151" x2="12" transform="translate(1263 260) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+        <g id="Group_103" data-name="Group 103" transform="translate(583 -225)">
+            <g id="Group_31" data-name="Group 31" transform="translate(217 -2)">
+                <g id="Group_27" data-name="Group 27">
+                    <text id="Shouting_or_barking_in_the_ear" data-name="Shouting or barking
+in the ear" transform="translate(412 564)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Shouting or barking </tspan><tspan x="0" y="18">in the ear</tspan></text>
+                    <circle id="Ellipse_14" data-name="Ellipse 14" cx="1.5" cy="1.5" r="1.5" transform="translate(405 559)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_101" data-name="Group 101" transform="translate(601 -411)">
+            <circle id="Ellipse_18" data-name="Ellipse 18" cx="89" cy="89" r="89" transform="translate(573 461)" fill="#122c49"/>
+            <text id="Recommended_Duration:_Max_volume_for_2min_time_period" data-name="Recommended
+Duration: Max volume for 2min time period" transform="translate(605 511)" fill="#fff" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">Recommended</tspan><tspan x="0" y="37">Duration: </tspan><tspan y="37" font-family="SegoeUI, Segoe UI" font-weight="400">Max </tspan><tspan x="0" y="58" font-family="SegoeUI, Segoe UI" font-weight="400">volume for 2min </tspan><tspan x="0" y="79" font-family="SegoeUI, Segoe UI" font-weight="400">time period</tspan></text>
+        </g>
+        <g id="Group_138" data-name="Group 138" transform="translate(175 -197)">
+            <text id="_dB_" data-name="(dB)" transform="translate(1069 816)" fill="#123a28" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-19.985" y="0">(dB)</tspan></text>
+            <text id="_110-115" data-name="110-115" transform="translate(1069 792)" fill="#123a28" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.555" y="0">110-115</tspan></text>
+        </g>
+    </g>
+    <g id="Group_194" data-name="Group 194" transform="translate(-1457 -50)">
+        <g id="Group_170" data-name="Group 170" transform="translate(1269)">
+            <path id="Path_22" data-name="Path 22" d="M170,85A85,85,0,0,1,0,85Z" transform="translate(211 282)" fill="#efefef"/>
+            <g id="Group_145" data-name="Group 145" transform="translate(322 445) rotate(180)">
+                <g id="Group_144" data-name="Group 144" clip-path="url(#clip-path)">
+                    <path id="Path_19" data-name="Path 19" d="M24.6,0A24.708,24.708,0,0,1,44.409,10.02l-1.414,1.042a24.23,24.23,0,1,0,2.746,5.075l1.632-.651A24.554,24.554,0,1,1,24.6,0" transform="translate(1.55 1.914)" fill="#fff"/>
+                    <path id="Path_20" data-name="Path 20" d="M18.114,0a1.027,1.027,0,0,1,.525.143,1.075,1.075,0,0,1,.516.942V19.751a1.052,1.052,0,0,1-1.59.94L.574,11.347a1.038,1.038,0,0,1,0-1.857L17.565.145A1.139,1.139,0,0,1,18.114,0M17.4,18.6V2.241L2.532,10.418ZM1.421,11.029h0Z" transform="translate(14.896 16.092)" fill="#fff"/>
+                    <path id="Path_21" data-name="Path 21" d="M7.027,3.514A3.514,3.514,0,1,1,3.514,0,3.514,3.514,0,0,1,7.027,3.514" transform="translate(41.957 8.942)" fill="#fff"/>
+                </g>
+            </g>
+            <g id="Group_161" data-name="Group 161" transform="translate(322 445) rotate(180)">
+                <g id="Group_144-2" data-name="Group 144" clip-path="url(#clip-path-2)">
+                    <path id="Path_19-2" data-name="Path 19" d="M24.6,0A24.708,24.708,0,0,1,44.409,10.02l-1.414,1.042a24.23,24.23,0,1,0,2.746,5.075l1.632-.651A24.554,24.554,0,1,1,24.6,0" transform="translate(1.55 1.914)" fill="#1a1818"/>
+                    <path id="Path_20-2" data-name="Path 20" d="M18.114,0a1.027,1.027,0,0,1,.525.143,1.075,1.075,0,0,1,.516.942V19.751a1.052,1.052,0,0,1-1.59.94L.574,11.347a1.038,1.038,0,0,1,0-1.857L17.565.145A1.139,1.139,0,0,1,18.114,0M17.4,18.6V2.241L2.532,10.418ZM1.421,11.029h0Z" transform="translate(14.896 16.092)" fill="#1a1818"/>
+                    <path id="Path_21-2" data-name="Path 21" d="M7.027,3.514A3.514,3.514,0,1,1,3.514,0,3.514,3.514,0,0,1,7.027,3.514" transform="translate(41.957 8.942)" fill="#2da340"/>
+                </g>
+            </g>
+        </g>
+        <text id="EXAMPLE" transform="translate(1531 385)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">EXAMPLE</tspan></text>
+    </g>
+</svg>

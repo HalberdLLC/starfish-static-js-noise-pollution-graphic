@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195" height="675" viewBox="0 0 195 675">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_33" data-name="Rectangle 33" width="53" height="54" fill="none"/>
+        </clipPath>
+    </defs>
+    <line id="Line_118" data-name="Line 118" x2="12" transform="translate(98 453) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_119" data-name="Line 119" x2="12" transform="translate(98 249) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_134" data-name="Line 134" x2="12" transform="translate(98 227) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_135" data-name="Line 135" x2="12" transform="translate(98 205) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_120" data-name="Line 120" x2="12" transform="translate(98 475) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <g id="Group_188" data-name="Group 188" transform="translate(-989 -503)">
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(989 503)" fill="none" stroke="#122c49" stroke-width="3">
+            <circle cx="97.5" cy="97.5" r="97.5" stroke="none"/>
+            <circle cx="97.5" cy="97.5" r="96" fill="none"/>
+        </g>
+        <circle id="Ellipse_53" data-name="Ellipse 53" cx="85" cy="85" r="85" transform="translate(1002 776)" fill="#efefef"/>
+        <g id="Group_86" data-name="Group 86" transform="translate(416 319)">
+            <g id="Group_35" data-name="Group 35" transform="translate(191 -2)">
+                <g id="Group_27" data-name="Group 27" transform="translate(22)">
+                    <text id="Maximum_Volume_for_personal_listening_device" data-name="Maximum Volume
+for personal
+listening device" transform="translate(412 564)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Maximum Volume </tspan><tspan x="0" y="18">for personal </tspan><tspan x="0" y="36">listening device</tspan></text>
+                    <circle id="Ellipse_14" data-name="Ellipse 14" cx="1.5" cy="1.5" r="1.5" transform="translate(405 559)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_87" data-name="Group 87" transform="translate(425 539)">
+            <circle id="Ellipse_18" data-name="Ellipse 18" cx="89" cy="89" r="89" transform="translate(573 461)" fill="#122c49"/>
+            <text id="Recommended_Duration:_Max_volume_for_5min_time_period" data-name="Recommended
+Duration: Max volume for 5min time period" transform="translate(606 511)" fill="#fff" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">Recommended</tspan><tspan x="0" y="37">Duration: </tspan><tspan y="37" font-family="SegoeUI, Segoe UI" font-weight="400">Max </tspan><tspan x="0" y="58" font-family="SegoeUI, Segoe UI" font-weight="400">volume for 5min </tspan><tspan x="0" y="79" font-family="SegoeUI, Segoe UI" font-weight="400">time period</tspan></text>
+        </g>
+        <g id="Group_137" data-name="Group 137" transform="translate(188 -197)">
+            <text id="_dB_" data-name="(dB)" transform="translate(899 816)" fill="#123a28" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-19.985" y="0">(dB)</tspan></text>
+            <text id="_105-110" data-name="105-110" transform="translate(899 792)" fill="#123a28" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-38.555" y="0">105-110</tspan></text>
+        </g>
+        <g id="Group_178" data-name="Group 178" transform="translate(1002 776)">
+            <g id="Group_170" data-name="Group 170">
+                <path id="Path_22" data-name="Path 22" d="M170,170A85,85,0,0,0,0,170Z" transform="translate(0 -85)" fill="none"/>
+                <g id="Component_1_3" data-name="Component 1 – 3" transform="translate(58 5)">
+                    <g id="Group_161" data-name="Group 161" transform="translate(53 54) rotate(180)">
+                        <g id="Group_144" data-name="Group 144" clip-path="url(#clip-path)">
+                            <path id="Path_19" data-name="Path 19" d="M24.6,0A24.708,24.708,0,0,1,44.409,10.02l-1.414,1.042a24.23,24.23,0,1,0,2.746,5.075l1.632-.651A24.554,24.554,0,1,1,24.6,0" transform="translate(1.55 1.914)" fill="#1a1818"/>
+                            <path id="Path_20" data-name="Path 20" d="M18.114,0a1.027,1.027,0,0,1,.525.143,1.075,1.075,0,0,1,.516.942V19.751a1.052,1.052,0,0,1-1.59.94L.574,11.347a1.038,1.038,0,0,1,0-1.857L17.565.145A1.139,1.139,0,0,1,18.114,0M17.4,18.6V2.241L2.532,10.418ZM1.421,11.029h0Z" transform="translate(14.896 16.092)" fill="#1a1818"/>
+                            <path id="Path_21" data-name="Path 21" d="M7.027,3.514A3.514,3.514,0,1,1,3.514,0,3.514,3.514,0,0,1,7.027,3.514" transform="translate(41.957 8.942)" fill="#2da340"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text id="EXAMPLE" transform="translate(51 76)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">EXAMPLE</tspan></text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178" height="655" viewBox="0 0 178 655">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_33" data-name="Rectangle 33" width="53" height="54" transform="translate(0 0)" fill="#fff"/>
+        </clipPath>
+    </defs>
+    <line id="Line_113" data-name="Line 113" x2="12" transform="translate(89 433) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_114" data-name="Line 114" x2="12" transform="translate(89 209) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_169" data-name="Line 169" x2="12" transform="translate(89 231) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_136" data-name="Line 136" x2="12" transform="translate(89 187) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_137" data-name="Line 137" x2="12" transform="translate(89 165) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_115" data-name="Line 115" x2="12" transform="translate(89 455) rotate(90)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <g id="Group_186" data-name="Group 186" transform="translate(-682 -523)">
+        <g id="Path_9" data-name="Path 9" transform="translate(693.014 523)" fill="none">
+            <path d="M77.993,0A77.993,77.993,0,1,1,0,77.993,77.993,77.993,0,0,1,77.993,0Z" stroke="none"/>
+            <path d="M 77.99284362792969 3 C 67.86756134033203 3 58.04673767089844 4.982391357421875 48.80316925048828 8.89208984375 C 44.36016845703125 10.77130126953125 40.07466888427734 13.097412109375 36.06571197509766 15.80581665039062 C 32.09408569335938 18.489013671875 28.35921478271484 21.570556640625 24.96488952636719 24.96488952636719 C 21.570556640625 28.35921478271484 18.489013671875 32.09408569335938 15.80581665039062 36.06571197509766 C 13.097412109375 40.07466888427734 10.77130126953125 44.36016845703125 8.89208984375 48.80316925048828 C 4.982391357421875 58.04673767089844 3 67.86756134033203 3 77.99284362792969 C 3 88.11812591552734 4.982391357421875 97.93894958496094 8.89208984375 107.1825180053711 C 10.77130126953125 111.6255187988281 13.097412109375 115.911018371582 15.80581665039062 119.9199752807617 C 18.489013671875 123.8916015625 21.570556640625 127.6264724731445 24.96488952636719 131.0207977294922 C 28.35921478271484 134.4151306152344 32.09408569335938 137.4966735839844 36.06571197509766 140.1798706054688 C 40.07466888427734 142.8882751464844 44.36016845703125 145.2143859863281 48.80316925048828 147.0935974121094 C 58.04673767089844 151.0032958984375 67.86756134033203 152.9856872558594 77.99284362792969 152.9856872558594 C 88.11812591552734 152.9856872558594 97.93894958496094 151.0032958984375 107.1825180053711 147.0935974121094 C 111.6255187988281 145.2143859863281 115.911018371582 142.8882751464844 119.9199752807617 140.1798706054688 C 123.8916015625 137.4966735839844 127.6264724731445 134.4151306152344 131.0207977294922 131.0207977294922 C 134.4151306152344 127.6264724731445 137.4966735839844 123.8916015625 140.1798706054688 119.9199752807617 C 142.8882751464844 115.911018371582 145.2143859863281 111.6255187988281 147.0935974121094 107.1825180053711 C 151.0032958984375 97.93894958496094 152.9856872558594 88.11812591552734 152.9856872558594 77.99284362792969 C 152.9856872558594 67.86756134033203 151.0032958984375 58.04673767089844 147.0935974121094 48.80316925048828 C 145.2143859863281 44.36016845703125 142.8882751464844 40.07466888427734 140.1798706054688 36.06571197509766 C 137.4966735839844 32.09408569335938 134.4151306152344 28.35921478271484 131.0207977294922 24.96488952636719 C 127.6264724731445 21.570556640625 123.8916015625 18.489013671875 119.9199752807617 15.80581665039062 C 115.911018371582 13.097412109375 111.6255187988281 10.77130126953125 107.1825180053711 8.89208984375 C 97.93894958496094 4.982391357421875 88.11812591552734 3 77.99284362792969 3 M 77.99284362792969 0 C 121.0671081542969 0 155.9856872558594 34.9185791015625 155.9856872558594 77.99284362792969 C 155.9856872558594 121.0671081542969 121.0671081542969 155.9856872558594 77.99284362792969 155.9856872558594 C 34.9185791015625 155.9856872558594 0 121.0671081542969 0 77.99284362792969 C 0 34.9185791015625 34.9185791015625 0 77.99284362792969 0 Z" stroke="none" fill="#122c49"/>
+        </g>
+        <circle id="Ellipse_52" data-name="Ellipse 52" cx="85" cy="85" r="85" transform="translate(686 776)" fill="#efefef"/>
+        <g id="Group_83" data-name="Group 83" transform="translate(102 319)">
+            <g id="Group_33" data-name="Group 33" transform="translate(217 -2)">
+                <g id="Group_30" data-name="Group 30" transform="translate(0 38)">
+                    <text id="Kitchen_Blender" data-name="Kitchen Blender" transform="translate(412 564)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Kitchen Blender</tspan></text>
+                    <circle id="Ellipse_14" data-name="Ellipse 14" cx="1.5" cy="1.5" r="1.5" transform="translate(405 559)"/>
+                </g>
+                <g id="Group_28" data-name="Group 28" transform="translate(0 19)">
+                    <text id="Hair_Dyer" data-name="Hair Dyer" transform="translate(412 564)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hair Dyer</tspan></text>
+                    <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="1.5" cy="1.5" r="1.5" transform="translate(405 559)"/>
+                </g>
+                <g id="Group_27" data-name="Group 27">
+                    <text id="Motorcycle" transform="translate(412 564)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Motorcycle</tspan></text>
+                    <circle id="Ellipse_14-3" data-name="Ellipse 14" cx="1.5" cy="1.5" r="1.5" transform="translate(405 559)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_84" data-name="Group 84" transform="translate(109 539)">
+            <circle id="Ellipse_18" data-name="Ellipse 18" cx="89" cy="89" r="89" transform="translate(573 461)" fill="#122c49"/>
+            <text id="Recommended_Duration:_Max_volume_for_50min_time_period" data-name="Recommended
+Duration: Max volume for 50min time period" transform="translate(602 511)" fill="#fff" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="16">Recommended</tspan><tspan x="0" y="37">Duration: </tspan><tspan y="37" font-family="SegoeUI, Segoe UI" font-weight="400">Max </tspan><tspan x="0" y="58" font-family="SegoeUI, Segoe UI" font-weight="400">volume for 50min </tspan><tspan x="0" y="79" font-family="SegoeUI, Segoe UI" font-weight="400">time period</tspan></text>
+        </g>
+        <g id="Group_135" data-name="Group 135" transform="translate(167 -197)">
+            <text id="_dB_" data-name="(dB)" transform="translate(604 816)" fill="#123a28" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-19.985" y="0">(dB)</tspan></text>
+            <text id="_90-97" data-name="90-97" transform="translate(604 792)" fill="#123a28" font-size="20" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-27.051" y="0">90-97</tspan></text>
+        </g>
+        <g id="Group_177" data-name="Group 177" transform="translate(686 776)">
+            <g id="Group_170" data-name="Group 170">
+                <path id="Path_22" data-name="Path 22" d="M170,170A85,85,0,0,0,0,170Z" transform="translate(0 -85)" fill="#00a451"/>
+                <g id="Group_145" data-name="Group 145" transform="translate(111 61) rotate(180)">
+                    <g id="Group_144" data-name="Group 144" transform="translate(0 0)" clip-path="url(#clip-path)">
+                        <path id="Path_19" data-name="Path 19" d="M24.6,0A24.708,24.708,0,0,1,44.409,10.02l-1.414,1.042a24.23,24.23,0,1,0,2.746,5.075l1.632-.651A24.554,24.554,0,1,1,24.6,0" transform="translate(1.55 1.914)" fill="#fff"/>
+                        <path id="Path_20" data-name="Path 20" d="M18.114,0a1.027,1.027,0,0,1,.525.143,1.075,1.075,0,0,1,.516.942V19.751a1.052,1.052,0,0,1-1.59.94L.574,11.347a1.038,1.038,0,0,1,0-1.857L17.565.145A1.139,1.139,0,0,1,18.114,0M17.4,18.6V2.241L2.532,10.418ZM1.421,11.029h0Z" transform="translate(14.896 16.092)" fill="#fff"/>
+                        <path id="Path_21" data-name="Path 21" d="M7.027,3.514A3.514,3.514,0,1,1,3.514,0,3.514,3.514,0,0,1,7.027,3.514" transform="translate(41.957 8.942)" fill="#fff"/>
+                    </g>
+                </g>
+            </g>
+            <text id="EXAMPLE" transform="translate(51 76)" fill="#fff" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">EXAMPLE</tspan></text>
+        </g>
+    </g>
+</svg>
