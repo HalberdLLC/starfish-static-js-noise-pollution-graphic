@@ -6,7 +6,7 @@ const audioSources = {
     "100db": "sounds/honk.wav",
     "105db": "sounds/music.wav",
     "110db": "sounds/bark.wav",
-    "120db": "sounds/siren.wav",
+    "120db": "sounds/Siren.wav",
     "130db": "sounds/jet.wav",
     "140db": "sounds/fireworks.mp3"
 };
