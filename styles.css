@@ -1,3 +1,6 @@
+html {
+    zoom:0.7;
+}
 .button {
     border: none;
     background-color: transparent;
@@ -6,11 +9,10 @@
 body {
     display: flex;
     overflow-x: auto;
-    justify-content: center;
-    align-items: center;
 }
 
 .top-container {
+    margin:auto auto;
     display: flex;
     justify-content: center;
     align-items: flex-start;
