@@ -20,3 +20,47 @@ body {
 img {
     transition: 0.5s;
 }
+
+@font-face {
+    font-family: 'ULModerat';
+    src: url('/fonts/UL-Moderat-Regular.otf') format('opentype');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ULModerat';
+    src: url('/fonts/UL-Moderat-Regular-Italic.otf') format('opentype');
+    font-weight: 400; /* Regular */
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ULModerat';
+    src: url('/fonts/UL-Moderat-Medium.otf') format('opentype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ULModerat';
+    src: url('/fonts/UL-Moderat-Medium-Italic.otf') format('opentype');
+    font-weight: 500; /* Medium */
+    font-style: italic;
+}
+
+/* Repeat above pattern for all the provided font weights and styles. */
+
+@font-face {
+    font-family: 'ULModerat';
+    src: url('/fonts/UL-Moderat-Black.otf') format('opentype');
+    font-weight: 900; /* Black */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ULModerat';
+    src: url('/fonts/UL-Moderat-Black-Italic.otf') format('opentype');
+    font-weight: 900; /* Black */
+    font-style: italic;
+}
